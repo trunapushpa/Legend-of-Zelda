@@ -1,6 +1,6 @@
-# Pacman-Killer
+# Legend-of-Zelda
 
-Graphics Assignment 1
+Graphics Assignment 2
 
 Trunapushpa
 
